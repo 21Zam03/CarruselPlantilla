@@ -1,0 +1,21 @@
+.slider-componente {
+    width: 50%;
+    margin: auto;
+}
+
+.contenedor-imagen img {
+    display: inline-block;
+    width: 50%;
+    margin: auto;
+}
+
+.slick-prev::before {
+    color: black !important;
+    /* Cambia el color según tus preferencias */
+}
+
+/* Estilo de la flecha derecha */
+.slick-next::before {
+    color: black !important;
+    /* Cambia el color según tus preferencias */
+}
